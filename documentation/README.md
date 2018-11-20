@@ -1,31 +1,31 @@
 
-NAIS documentation
+NAIS documentation/files
 ==================
-<img align="left" width="60" height="80" src="https://raw.githubusercontent.com/nais/doc/master/documentation/media/nais.png">
+<img align="left" width="60" height="80" src="https://raw.githubusercontent.com/nais/doc/master/documentation/files/media/nais.png">
 NAIS is an application platform built to increase development speed by providing our developers with the best possible tools to develop, test and run their applications.
 
-Also, follow our [changelog](/documentation/changelog.md) to easily stay up to date on new milestones and services.
+Also, follow our [changelog](/documentation/files/changelog.md) to easily stay up to date on new milestones and services.
 
 
 ## Getting started
 
-New users and developers should head over to the [getting started guide](/documentation/README.md#getting-started), which cover both how to set up the environment, and how to start using the platform. 
+New users and developers should head over to the [getting started guide](/documentation/files/README.md#getting-started), which cover both how to set up the environment, and how to start using the platform. 
 Note that this guide is specific to [NAV](https://nav.no) and links to private repositories and config files.
-After that you can read more about the [platform](/documentation/platform.md), and the NAIS [contracts](/README.md#contracts).
+After that you can read more about the [platform](/documentation/files/platform.md), and the NAIS [contracts](/README.md#contracts).
 
-* [Getting started](/documentation/README.md#getting-started)
-* [Naisd](/documentation/naisd.md)
-* [Migration](/documentation/migration.md)
-* [Alerts](/documentation/alerts.md)
+* [Getting started](/documentation/files/README.md#getting-started)
+* [Naisd](/documentation/files/naisd.md)
+* [Migration](/documentation/files/migration.md)
+* [Alerts](/documentation/files/alerts.md)
 * [AM](contracts/am.md) (Norwegian)
-* [Fasit resources](/documentation/fasit_resources.md)
-* [Logging](/documentation/logging.md)
-* [Metrics](/documentation/metrics.md)
-* [Vault](/documentation/vault.md)
-* [NAIS manifest](/documentation/README.md#nais-manifest)
-* [Kubernetes dashboard](/documentation/kubernetes_dashboard.md)
-* [Leader election](/documentation/leader_election.md)
-* [Redis](/documentation/redis.md)
+* [Fasit resources](/documentation/files/fasit_resources.md)
+* [Logging](/documentation/files/logging.md)
+* [Metrics](/documentation/files/metrics.md)
+* [Vault](/documentation/files/vault.md)
+* [NAIS manifest](/documentation/files/README.md#nais-manifest)
+* [Kubernetes dashboard](/documentation/files/kubernetes_dashboard.md)
+* [Leader election](/documentation/files/leader_election.md)
+* [Redis](/documentation/files/redis.md)
 
 
 ## Clusters
@@ -55,9 +55,9 @@ Similar to GKE, we are also working with Microsoft and [Azure Kubernetes Service
 
 | Service                       | Address                   |
 | ----------------------------- | ------------------------- |
-| [Deploy](/documentation/naisd.md)    | `https://deploy.{domain}` |
-| [Logs](/documentation/logging.md)    | https://logs.adeo.no      |
-| [Metrics](/documentation/metrics.md) | https://grafana.adeo.no   |
+| [Deploy](/documentation/files/naisd.md)    | `https://deploy.{domain}` |
+| [Logs](/documentation/files/logging.md)    | https://logs.adeo.no      |
+| [Metrics](/documentation/files/metrics.md) | https://grafana.adeo.no   |
 
 
 ## Contact us
