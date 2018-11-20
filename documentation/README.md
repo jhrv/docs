@@ -9,34 +9,23 @@ Also, follow our [changelog](/documentation/changelog.md) to easily stay up to d
 
 ## Getting started
 
-New users and developers should head over to the [getting started guide](/documentation/dev-guide/README.md#getting-started), which cover both how to set up the environment, and how to start using the platform. 
+New users and developers should head over to the [getting started guide](/documentation/README.md#getting-started), which cover both how to set up the environment, and how to start using the platform. 
 Note that this guide is specific to [NAV](https://nav.no) and links to private repositories and config files.
 After that you can read more about the [platform](/documentation/platform.md), and the NAIS [contracts](/README.md#contracts).
 
-
-## Developer guide
-
-* [Naisd](/documentation/dev-guide/naisd.md)
-* [Migration](/documentation/dev-guide/migration.md)
-* [Getting started](/documentation/dev-guide/README.md#getting-started)
-
-
-## Contracts
-
-* [Alerts](/documentation/contracts/alerts.md)
+* [Getting started](/documentation/README.md#getting-started)
+* [Naisd](/documentation/naisd.md)
+* [Migration](/documentation/migration.md)
+* [Alerts](/documentation/alerts.md)
 * [AM](contracts/am.md) (Norwegian)
-* [Fasit resources](/documentation/contracts/fasit_resources.md)
-* [Logging](/documentation/contracts/logging.md)
-* [Metrics](/documentation/contracts/metrics.md)
-* [Vault](/documentation/contracts/vault.md)
-* [NAIS manifest](/documentation/contracts/README.md#nais-manifest)
-
-
-## Services
-
-* [Kubernetes dashboard](/documentation/services/kubernetes_dashboard.md)
-* [Leader election](/documentation/services/leader_election.md)
-* [Redis](/documentation/services/redis.md)
+* [Fasit resources](/documentation/fasit_resources.md)
+* [Logging](/documentation/logging.md)
+* [Metrics](/documentation/metrics.md)
+* [Vault](/documentation/vault.md)
+* [NAIS manifest](/documentation/README.md#nais-manifest)
+* [Kubernetes dashboard](/documentation/kubernetes_dashboard.md)
+* [Leader election](/documentation/leader_election.md)
+* [Redis](/documentation/redis.md)
 
 
 ## Clusters
@@ -66,9 +55,9 @@ Similar to GKE, we are also working with Microsoft and [Azure Kubernetes Service
 
 | Service                       | Address                   |
 | ----------------------------- | ------------------------- |
-| [Deploy](/documentation/dev-guide/naisd.md)    | `https://deploy.{domain}` |
-| [Logs](/documentation/contracts/logging.md)    | https://logs.adeo.no      |
-| [Metrics](/documentation/contracts/metrics.md) | https://grafana.adeo.no   |
+| [Deploy](/documentation/naisd.md)    | `https://deploy.{domain}` |
+| [Logs](/documentation/logging.md)    | https://logs.adeo.no      |
+| [Metrics](/documentation/metrics.md) | https://grafana.adeo.no   |
 
 
 ## Contact us
