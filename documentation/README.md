@@ -10,7 +10,7 @@ Services
 
 New users should head over to the [getting started guide](/documentation/files/getting-started/README.md), which cover both how to set up the environment and how to start using the platform. 
 
-* [Kubernetes clusters](/documentation/files/clusters/REAEDME.md)
+* [Kubernetes clusters](/documentation/files/clusters/README.md)
 * [Deploy](/documentation/files/deploy/naisd.md)
 * [Storage](/documentation/files/storage/README.md)
 * [Metrics](/documentation/files/metrics/README.md)
@@ -22,15 +22,6 @@ New users should head over to the [getting started guide](/documentation/files/g
 * [Redis/Caching](/documentation/files/redis.md)
 * [Leader election](/documentation/files/leader_election.md)
 * [Kubernetes dashboard](/documentation/files/kubernetes_dashboard.md)
-
-## Clusters
-
-| Name            | Domain             | Purpose               |
-| --------------- | ------------------ | --------------------- |
-| **prod-fss**    | *.prod-fss.nais.io | Production in FSS     |
-| **prod-sbs**    | *.prod-sbs.nais.io | Production in SBS     |
-| **dev-fss**     | *.dev-fss.nais.io  | Non production in FSS |
-| **dev-sbs**     | *.dev-sbs.nais.io  | Non production in SBS |
 
 ## Contact us
 
