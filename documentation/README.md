@@ -1,7 +1,7 @@
 NAIS documentation
 ==================
 <img align="left" width="60" height="80" src="https://raw.githubusercontent.com/jhrv/docs/master/documentation/files/_media/nais_logo_gray.png">
-NAIS is an application platform built to increase development speed by providing our developers with the best possible tools to develop and run their applications. </br>
+NAIS is an application platform built to increase development speed by providing our developers with the best possible tools to develop and run their applications. <br />
 
 For developers getting started with NAIS, the [getting started guide](/documentation/files/getting-started) covers both setting up the environment, getting access and how to start using [the platform](/documentation/files/about). 
 
