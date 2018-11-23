@@ -7,7 +7,7 @@ Getting started
 
 We recommend Linux-VDI users to use [utvikler-ansible](https://github.com/navikt/utvikler-ansible) to set up their images.
 
-For Linux- and Windows-VDI, you need to set up [NAV-proxy](/documentation/getting-started/README.md#system-environment-variables) before installing the tools.
+For Linux- and Windows-VDI, you need to set up [NAV-proxy](/documentation/files/getting-started/README.md#system-environment-variables) before installing the tools.
 
 
 ### Install Kubectl
