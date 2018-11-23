@@ -8,16 +8,16 @@ Follow our [changelog](/documentation/files/changelog.md) to easily stay up to d
 Services
 ========
 
-New users should head over to the [getting started guide](/documentation/files/getting-started/README.md), which cover both how to set up the environment and how to start using [the platform](/documentation/files/about). 
+New users should head over to the [getting started guide](/documentation/files/getting-started), which cover both how to set up the environment and how to start using [the platform](/documentation/files/about). 
 
-* [Kubernetes clusters](/documentation/files/clusters/README.md)
+* [Kubernetes clusters](/documentation/files/clusters)
 * [Deploy](/documentation/files/deploy/naisd.md)
-* [Storage](/documentation/files/storage/README.md)
-* [Metrics](/documentation/files/metrics/README.md)
-* [Alerts](/documentation/files/alerts/README.md)
-* [Logging](/documentation/files/logging/README.md)
-* [Secrets](/documentation/files/secrets/README.md)
-* [Auth{n,z}](/documentation/files/authnz/README.md)
+* [Storage](/documentation/files/storage)
+* [Metrics](/documentation/files/metrics)
+* [Alerts](/documentation/files/alerts)
+* [Logging](/documentation/files/logging)
+* [Secrets](/documentation/files/secrets)
+* [Auth{n,z}](/documentation/files/authnz)
 
 * [Redis/Caching](/documentation/files/redis.md)
 * [Leader election](/documentation/files/leader_election.md)
