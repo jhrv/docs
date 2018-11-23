@@ -3,12 +3,12 @@ NAIS documentation
 <img align="left" width="60" height="80" src="https://raw.githubusercontent.com/jhrv/docs/master/documentation/files/_media/nais.png">
 NAIS is an application platform built to increase development speed by providing our developers with the best possible tools to develop and run their applications.
 
-Follow our [changelog](/documentation/files/changelog.md) to easily stay up to date on new milestones and services.
+For developers getting started with NAIS, the [getting started guide](/documentation/files/getting-started) covers both setting up the environment, getting access and how to start using [the platform](/documentation/files/about). 
+
+The [about page](/documentation/files/about/) gives you a high-level overview to the platform and it's components.
 
 Services
 ========
-
-New users should head over to the [getting started guide](/documentation/files/getting-started), which cover both how to set up the environment and how to start using [the platform](/documentation/files/about). 
 
 * [Kubernetes clusters](/documentation/files/clusters)
 * [Deploy](/documentation/files/deploy/naisd.md)
@@ -22,6 +22,8 @@ New users should head over to the [getting started guide](/documentation/files/g
 * [Redis/Caching](/documentation/files/redis.md)
 * [Leader election](/documentation/files/leader_election.md)
 * [Kubernetes dashboard](/documentation/files/kubernetes_dashboard.md)
+
+Follow our [changelog](/documentation/files/changelog.md) to easily stay up to date on new milestones and services.
 
 ## Contact us
 
